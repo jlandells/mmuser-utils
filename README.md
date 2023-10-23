@@ -26,6 +26,7 @@ python userutil.py [-h] [--config CONFIG] [<-d | --debug>]
                    [--newnickname NICKNAME] [--removenickname]
                    [--teamadd TEAM] [--teamremove TEAM]
                    [--channeladd CHANNEL] [--channelremove CHANNEL]
+                   [--team TEAM]
 ```
 
 ### Site-Specific Arguments
