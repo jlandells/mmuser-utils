@@ -39,7 +39,7 @@ called `config.ini`.
 | -------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `--siteurl URL` | Mattermost site URL.  Must be present either in the config file or on the command line. Argument overrides config file entry.                                                  |
 | `--port PORT` | [Optional] Port on which Mattermost is listening. [Default: 443] Argument overrides config file entry.                                                                         |
-| `--scheme {http,https}` | [Optional] The HTTP scheme to be used. [Default: 443] Argument overrides config file entry.                                                                                    |
+| `--scheme {http,https}` | [Optional] The HTTP scheme to be used. [Default: https] Argument overrides config file entry.                                                                                  |
 | `--tokenfile TOKENFILE` | A text file containing a valid Mattermost [Personal Access Token](https://docs.mattermost.com/developer/personal-access-tokens.html) from an account with System Admin access. |
 
 ### Task-Specific Arguments
