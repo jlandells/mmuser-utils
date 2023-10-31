@@ -4,7 +4,6 @@ import sys
 from mattermostdriver import Driver
 import configparser
 import argparse
-import json
 
 
 # Constants
