@@ -12,7 +12,7 @@ DEFAULT_CONFIG_FILE='config.ini'
 DEFAULT_PORT = '443'
 DEFAULT_SCHEME = 'https'
 
-DEBUG = True
+DEBUG = False
 
 
 def debug_print(msg: str) -> None:
